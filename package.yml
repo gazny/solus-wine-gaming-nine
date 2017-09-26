@@ -2,7 +2,7 @@ name       : wine
 version    : '2.6'
 release    : 15
 source     :
-    - https://github.com/wine-compholio/wine-patched/archive/wine-2.17.tar.gz : 009ae03e333f220515ec28e3928a53c5c7036d04651ea0d4d58ad88163e2f899
+    - https://github.com/wine-compholio/wine-patched/archive/staging-2.17.tar.gz : 009ae03e333f220515ec28e3928a53c5c7036d04651ea0d4d58ad88163e2f899
 license    : LGPL-2.1
 component  : virt
 summary    : Wine compatibility layer for Windows emulation.
